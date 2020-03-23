@@ -129,7 +129,7 @@ else:
 # FOLLOWING MENU TO USER
 print("Choose Any of the Following Given Menu:\n"
       "a. Show max price 10 items\n"
-      "b. Show min price 10 items\n"
+      "b. Show min p rice 10 items\n"
       "c. Show top rated 10 items\n")
 x = input()
 ascendinglist=[]
